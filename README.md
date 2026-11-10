@@ -8,7 +8,7 @@ Problem Description
 Detecting people wearing face masks manually can be time-consuming, especially in crowded areas. This project automates the detection process using AI.
 
 ## Dataset & Model Used
-* Dataset: Face Mask Detection Dataset from Kaggle.
+* Dataset: Face Mask Detection Dataset from Kaggle(https://www.kaggle.com/datasets/andrewmvd/face-mask-detection?utm_source).
 * Platform: Roboflow.
 * Model: RF-DETR Small
 * Task: Object Detection.
