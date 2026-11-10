@@ -25,12 +25,14 @@ Detecting people wearing face masks manually can be time-consuming, especially i
 
 ## Results & Evaluation
 The RF-DETR Small model was evaluated on the test dataset, achieving the following results:
-Evaluation Metric	Result
-Precision	         87.7%
-Recall	             64.9%
-F1-Score	         72.5%
-mAP@50	             72.9%
-mAP@50–95	         47.4%
+
+
+
+
+
+
+<img width="717" height="307" alt="ملاحظة جديدة" src="https://github.com/user-attachments/assets/5bdd15ec-0d83-409e-b22f-0c1ceb766131" />
+
 The model was also tested on unseen video footage to detect people wearing face masks using bounding boxes.
 
 ## Technologies Used
