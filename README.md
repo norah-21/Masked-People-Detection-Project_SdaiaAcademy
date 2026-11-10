@@ -18,7 +18,7 @@ Detecting people wearing face masks manually can be time-consuming, especially i
 
 
 
-![alt text](<صورة ١٠‏-١١‏-٢٠٢٦ في الساعة ٢.١٨ ص-1.png>)
+<img width="1514" height="878" alt="صورة ١٠‏-١١‏-٢٠٢٦ في الساعة ٢ ١٨ ص" src="https://github.com/user-attachments/assets/a4e73400-0b95-408c-a4fd-a4c9b687b8cd" />
 
 
 
