@@ -51,6 +51,20 @@ The model was also tested on unseen video footage to detect people wearing face 
 4. Enter your Roboflow API Key.
 5. Run the cells in order.
 6. View and download the annotated video and detection results.
+## Detection Result
+
+
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/7f0054ee-0523-43ac-b6dc-a4b03186ac29
+
+
+
 
 ## Future Improvements
 - Improve detection accuracy using a larger and more diverse dataset.
