@@ -58,8 +58,9 @@ The model was also tested on unseen video footage to detect people wearing face 
 - Optimize video processing for real-time detection.
 - Improve detection under different lighting conditions and camera angles.
 
-
-
+worked by Norah Alhazani& Danah Alanazi @Danah-99
 The code is provided in the repository files.
+
+ًخ
 
 SDAIA Academy GitHub Repository Link(https://github.com/SDAIAAcademy)
